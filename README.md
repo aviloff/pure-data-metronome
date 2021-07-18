@@ -18,13 +18,15 @@ alt + [ / ] -- increase/decrease subdivision beat
 
 shift + \` / z -- tempo up/down +/- 10 bpm
 
-alt + d -- double time
+alt + d -- double time on/off
 
+esc -- keyboard control on/off
 
 ---
 
-Adapted for a mac keyboard
+Keyboard shortcuts for a mac keyboard
 
 ---
 
 Suggestions and support welcome!
+
