@@ -1,6 +1,8 @@
 BSD 3-Clause License
 
-Copyright (c) 2021, aviloff
+Copyright (c) 2021, Sviatoslav Avilov
+Based on metroflash2.pd https://forum.pdpatchrepo.info/topic/9605/metronome-on-pure-data/7 .
+Based on other freely avaliable materials online.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
