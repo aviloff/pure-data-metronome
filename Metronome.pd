@@ -1,0 +1,7 @@
+#N canvas 649 302 335 160 10;
+#X obj 220 9 abs/pdmetronome;
+#X floatatom 285 57 5 0 20 0 Beats Mbeats -;
+#X floatatom 285 79 5 0 10 0 Sub_Beat MsubBeatDivision -;
+#X floatatom 284 34 5 0 20 0 Tempo Mtempo -;
+#X obj 4 4 cnv 60 150 150 empty flash empty 50 75 0 70 -195568 -262144
+0;
